@@ -1,0 +1,14 @@
+{
+  "name": "Disccord-Bot",
+    "version": "1.0.0",
+    "descrciption": "",
+    "main": "bot.js",
+    "scripts": {
+        "test": "nodemon bot.js"
+    },
+    "author": "Joffrey",
+    "license": "MIT",
+    "dependencies": {
+        "discordie": "^0.5.5"
+    }
+}
